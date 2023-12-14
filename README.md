@@ -1,0 +1,1 @@
+Ejercicio de codificacion en python. Se trata de un analizador de texto, el usuario ingresa un texto mediante un input, y posteriormente 3 letras al azar, las cuales seran buscadas en el texto por el programa.
